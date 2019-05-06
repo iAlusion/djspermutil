@@ -1,0 +1,29 @@
+{
+  "name": "djspermutil",
+  "version": "0.0.5",
+  "description": "A module made for permissions and command handling built on Discord.js.",
+  "main": "coreModule.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iAlusion/djspermutil"
+  },
+  "keywords": [
+    "discord",
+    "javascript",
+    "js",
+    "permissions",
+    "roles",
+    "command",
+    "usage"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iAlusion/djspermutil/issues"
+  },
+  "homepage": "https://github.com/iAlusion/djspermutil#readme",
+  "dependencies": {}
+}
