@@ -1,8 +1,10 @@
+[DEPRECATED] This package is no longer maintained. Possible revamp in the near future.
+
 #Intro
 
 Its finally here, its complete release. djspermutil enables the bot developer to get a more custom touch in permitting certain things. 
 
-For any troubleshooting DM me on discord `iAlusion#3104` or email me on `ialusionworkz@gmail.com`
+For any troubleshooting DM me on discord `iAlusion` or email me on `iAlusion.projects@gmail.com`
 
 All usage is explained below in categories.
 
